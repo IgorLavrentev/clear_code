@@ -19,6 +19,7 @@ dictionary_1 - dictionary_of_repetition_counts
 # словарь количеств повторений
 decimal_number
 # десятичное число
+
 # 6.3. Имена переменных с учётом контекста
 doors_array
 # создание массива открытых и закрытых дверей
